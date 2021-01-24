@@ -1,0 +1,6 @@
+1. 리액트 프로젝트 생성
+$ yarn create react-app hello-react
+
+$ npm init react-app hello-react
+
+
