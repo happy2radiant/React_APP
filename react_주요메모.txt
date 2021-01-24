@@ -1,5 +1,7 @@
-1. 리액트 프로젝트 생성
+1. 프로젝트 생성
 $ yarn create react-app hello-react  --npm 버전 : $ npm init react-app hello-react
 
 2. 실행
 $ yarn start   --npm 버전 : $ npm start
+-----------------------------------------------------------
+2021-01-25 github clone
